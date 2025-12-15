@@ -1,0 +1,11 @@
+# build files
+*.o
+kplc
+
+# macOS junk
+.DS_Store
+._.DS_Store
+
+# core dump
+core
+core.*
