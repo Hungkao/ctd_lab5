@@ -40,12 +40,18 @@ make: Nothing to be done for 'all'.
 ==============================
 TEST FILE: tests/example1.kpl
 ------------------------------
+
 Program EXAMPLE1
-==============================
 
 ==============================
+
+
+==============================
+
 TEST FILE: tests/example2.kpl
+
 ------------------------------
+
 Program EXAMPLE2
     Var N : Int
     Function F : Int
@@ -54,8 +60,11 @@ Program EXAMPLE2
 ==============================
 
 ==============================
+
 TEST FILE: tests/example3.kpl
+
 ------------------------------
+
 Program EXAMPLE3
     Var I : Int
     Var N : Int
@@ -70,8 +79,11 @@ Program EXAMPLE3
 ==============================
 
 ==============================
+
 TEST FILE: tests/example4.kpl
+
 ------------------------------
+
 Program EXAMPLE4
     Const MAX = 10
     Type T = Int
@@ -92,8 +104,12 @@ Program EXAMPLE4
 ==============================
 
 ==============================
+
 TEST FILE: tests/example5.kpl
+
 ------------------------------
+
+
 Program EXAMPLE5
     Const C = 1
     Type T = Char
@@ -105,8 +121,11 @@ Program EXAMPLE5
 ==============================
 
 ==============================
+
 TEST FILE: tests/example6.kpl
+
 ------------------------------
+
 Program EXAMPLE6
     Const C1 = 10
     Const C2 = 'a'
@@ -127,5 +146,7 @@ Program EXAMPLE6
         Var V3 : Char
 
 ==============================
+
+
 
 ===== DONE =====
